@@ -107,5 +107,5 @@ plt.legend()
 plt.show()
 
 
-### Add proof of positive expenctancy before plot
+### Add proof of positive expenctency before plot
 
